@@ -10,9 +10,9 @@ The project, **PyroDetect**, introduces a novel AI-powered wildfire detection sy
 
 ## Contributors
 
-👨‍💻 **Kshitiz Bhargava** - [Linkedin](https://www.linkedin.com/in/kshitizbhargava)  [Github](https://github.com/Kshitiz-b)
+👨‍💻 **Kshitiz Bhargava** - [Linkedin](https://www.linkedin.com/in/kshitiz-bhargava)  [Github](https://github.com/Kshitiz-b)
 
-👨‍💻 **Manvendra Singh** - [Linkedin](https://www.linkedin.com/in/manvendrasingh)  [Github](https://github.com/manvendrasingh09)
+👨‍💻 **Manvendra Singh** - [Linkedin](https://www.linkedin.com/in/manvendrasingh09)  [Github](https://github.com/manvendrasingh09)
 
 👨‍💻 **Abeer Mathur** - [Linkedin](https://www.linkedin.com/in/abeermathur)  [Github](https://github.com/AbeerMathur)
 
